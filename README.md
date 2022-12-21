@@ -14,4 +14,7 @@ account=         # FIO account associated with public key
 
 ## Usage
 
-npm run burn-nfts     # Burn NFTs that have been removed by users
+```
+npm run burn-nfts
+
+```
