@@ -2,7 +2,7 @@
     "name": "fio-service-burnnfts",
     "version": "1.0.0",
     "description": "Service for burning NFTs that have been removed by a user on the FIO Chain.",
-    "main": "./index.js",
+    "main": "./burn-nfts.js",
     "sideEffects": false,
     "type": "module",
     "repository": {

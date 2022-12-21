@@ -1,5 +1,6 @@
-# fio-burn-expired
-Service to burn expired domains
+# fio-service-burnnfts
+
+Service for burning NFTs that have been removed by a user on the FIO Chain.
 
 ## Environment variables
 
