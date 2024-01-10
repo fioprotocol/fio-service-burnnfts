@@ -1,5 +1,5 @@
 {
-    "name": "fio-service-burnnfts",
+    "name": "@fioprotocol/fio-service-burnnfts",
     "version": "1.0.0",
     "description": "Service for burning NFTs that have been removed by a user on the FIO Chain.",
     "main": "./burn-nfts.js",
